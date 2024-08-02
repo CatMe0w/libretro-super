@@ -321,7 +321,7 @@ include_core_flycast() {
 	register_module core "flycast"
 }
 libretro_flycast_name="Flycast"
-libretro_flycast_git_url="https://github.com/flyinghead/flycast"
+libretro_flycast_git_url="https://github.com/CatMe0w/flycast"
 libretro_flycast_build_rule="cmake"
 libretro_flycast_build_args="-DLIBRETRO=ON -DCMAKE_POSITION_INDEPENDENT_CODE=TRUE -DCMAKE_BUILD_TYPE=Release"
 
